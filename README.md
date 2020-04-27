@@ -12,3 +12,7 @@ The Project is made using
 - Vanilla JS
 - Intersection Observer
 - Google Fonts for custom fonts
+
+This project is live and can be seen [here](https://daggron.github.io/landing)
+
+Happy Programming :zap:
